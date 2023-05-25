@@ -14,4 +14,4 @@ This leads to each classifier network having a strong bias against this class. M
 
 ![](Pictures/test_dset.png)
 
-For further details on the analysis and pre-processing of the images and the construction of the model, see the following [pdf]().
+For further details on the analysis and pre-processing of the images and the construction of the model, see the following [pdf](KD_homework1.pdf).
